@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 1200px;
+    border: 2px solid red;
+    margin: 0 auto;
+    padding: 165px;
+    text-align: center;
+}
+
+.inputText {
+    width: 600px;
+    height: 40px;
+    padding-left: 20px;
+}
+
+.inputSubmit {
+    /* width: 45px; */
+    height: 40px;
+    background-color: #3b378f;
+}
+
+.list {
+    width: 100%;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.element {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
